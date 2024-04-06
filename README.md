@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ravisoma54
 - 👀 I’m interested in Network Pharmacology stuff
-- 🌱 I’m currently learning Network Pharmacology
+- 🌱 I’m currently doing PhD in Pharmaceutical Sciences
 - 💞️ I’m looking to collaborate on Network Pharmacology
 - 📫 How to reach me ravisomabattini@gmail.com
 - 😄 Pronouns: ...
